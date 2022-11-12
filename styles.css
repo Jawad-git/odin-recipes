@@ -1,0 +1,32 @@
+img {
+    width: auto;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    font-size: small;
+    color: brown;
+}
+
+ol {
+    font-size: larger;
+    color: darkblue;
+}
+
+.description {
+    font-size: large;
+    font-family: cursive;
+    background-color: wheat;
+}
